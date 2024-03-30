@@ -8,6 +8,9 @@ This is a simple text-based game implemented in Java where two players battle in
 2. Create a new Java project or import the provided `MagicalArena.java` and `TestMagicalArena.java` files into an existing project.
 3. Compile and run the `MagicalArena.java` file to start the game.
 
+## Imp Note:- 
+If you see error in a file `TestMagicalArena.java` then remove all three import statements and again re-import it from the line where it shown error.
+
 ## Game Rules
 - Each player has health, strength, and attack attributes.
 - During each round, both players roll a dice to determine their attack and defense values.
